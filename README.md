@@ -47,6 +47,6 @@ _**Heaven’s Light is Our Guide**_
 
 | Assignment No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 |  | [Task 01]()
+| 01 | Inheritance | [Task 01](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assingment_1.md)
 </div>
 
