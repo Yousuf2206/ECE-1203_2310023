@@ -49,5 +49,6 @@ _**Heaven’s Light is Our Guide**_
 | :---: | :---: | :---: |
 | 01 | Inheritance | [Task 01](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assingment_1.md)
 | 02 | Use of Constractor and Function | [Task 02](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assingment_2.md)
+| 03 | Practice code on Constructors, Friend Functions/classes & Inheritance. | [Task 03](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignent_3.md)
 </div>
 
