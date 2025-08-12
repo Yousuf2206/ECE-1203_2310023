@@ -37,10 +37,8 @@ int main()
 
 ## **Output :**
 <p align="center">
-
-
-
-
+<img width="847" height="330" alt="Image" src="https://github.com/user-attachments/assets/64e4f83c-99de-4a7f-84ed-5f7762598853" />
+    
 </p>
 
 ## **Discussion:**
@@ -84,7 +82,7 @@ int main()
 
 ## **Output :**
 <p align="center">
-
+<img width="832" height="344" alt="Image" src="https://github.com/user-attachments/assets/4dd006cb-4e02-4c80-ba74-c3f7ef95167a" />
 
 
 </p>
@@ -130,7 +128,7 @@ int main()
 
 ## **Output :**
 <p align="center">
-
+<img width="840" height="340" alt="Image" src="https://github.com/user-attachments/assets/5ea7225e-5d26-4774-a47e-f2eef0976fd5" />
 
 </p>
 
@@ -175,7 +173,7 @@ int main()
 
 ## **Output :**
 <p align="center">
-
+<img width="835" height="393" alt="Image" src="https://github.com/user-attachments/assets/68bfd86c-5921-4496-9b4e-41095c36fafe" />
 
 </p>
 
