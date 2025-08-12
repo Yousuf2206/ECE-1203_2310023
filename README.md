@@ -52,6 +52,6 @@ _**Heaven’s Light is Our Guide**_
 | 03 | Practice code on Constructors, Friend Functions/classes & Inheritance. | [Task 03](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignent_3.md)
 | 04 | Usage of C++ Keywords with Example | [Task 04](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignment_4.md)
 | 05 | All the tasks of Assignment 05 | [Task 05](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignment_05.md)
-
+| 07 | Exercise problem of EXCEPTION HANDLING (13.3) | [Task 05](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignment_07.md)
 </div>
 
