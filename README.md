@@ -51,6 +51,7 @@ _**Heaven’s Light is Our Guide**_
 | 02 | Use of Constractor and Function | [Task 02](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assingment_2.md)
 | 03 | Practice code on Constructors, Friend Functions/classes & Inheritance. | [Task 03](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignent_3.md)
 | 04 | Usage of C++ Keywords with Example | [Task 04](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignment_4.md)
+| 05 | All the tasks of Assignment 05 | [Task 05](https://github.com/Yousuf2206/ECE-1203_2310023/blob/main/Assignment/assignment_05.md)
 
 </div>
 
